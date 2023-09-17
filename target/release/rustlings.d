@@ -1,0 +1,1 @@
+/home/ovilers/rustlings/target/release/rustlings: /home/ovilers/rustlings/src/exercise.rs /home/ovilers/rustlings/src/main.rs /home/ovilers/rustlings/src/project.rs /home/ovilers/rustlings/src/run.rs /home/ovilers/rustlings/src/ui.rs /home/ovilers/rustlings/src/verify.rs
